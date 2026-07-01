@@ -1,0 +1,8 @@
+{
+  "name": "Remix: cyber pro",
+  "description": "Gamified cybersecurity learning with certification paths, real-time threat simulations, AI-powered mock interviews, and a professional job board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
